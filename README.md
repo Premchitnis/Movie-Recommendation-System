@@ -103,10 +103,5 @@ Open your browser at `http://localhost:8501`
 - Implement search autocomplete
 
 ---
-
-## 📬 Contact
-
-**Prem C**
-- LinkedIn: [your-linkedin-url]
 - GitHub: [your-github-url]
 - Email: [your-email]
