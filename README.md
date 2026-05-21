@@ -103,5 +103,3 @@ Open your browser at `http://localhost:8501`
 - Implement search autocomplete
 
 ---
-- GitHub: [your-github-url]
-- Email: [your-email]
